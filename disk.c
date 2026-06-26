@@ -1,7 +1,4 @@
 /*
- - member-1) Mantavya Bhojani(202403028)
- - member-2) Chovatiya Yash(202403006)
-
  - how to compile:
         gcc disk.c -o disk -lm 
  
